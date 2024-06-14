@@ -1,4 +1,4 @@
-# 股市分析與預測專案
+# Stock Prediction Final
 
 ## 專案介紹
 
