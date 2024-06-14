@@ -40,6 +40,7 @@
 
 ### 0050預測結果（LSTM）
 顯示LSTM模型對0050股票的預測結果。
+
 ![LSTM1](image/lstm1.png)
 ![LSTM2](image/lstm2.png)
 
