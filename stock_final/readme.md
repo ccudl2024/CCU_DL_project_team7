@@ -131,4 +131,4 @@ def build_model(
 ```
 
 ## 貢獻
-
+比較LSTM和Transformer模型在股票走勢預測上的表現。
