@@ -18,28 +18,6 @@
   - [Transformer 模型](#transformer-模型)
 - [貢獻](#貢獻)
 
-12
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
 
 ## 背景
 
@@ -52,4 +30,13 @@
 ```bash
 pip install pandas numpy matplotlib seaborn yfinance tensorflow scikit-learn
 ```
-# lstm-模型
+## 使用方法
+## 專案結構
+## 範例
+### 數據抓取
+### 數據可視化
+### 移動平均線
+### lstm-模型
+### transformer-模型
+## 貢獻
+
