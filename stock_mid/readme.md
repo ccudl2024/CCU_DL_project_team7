@@ -60,10 +60,3 @@ lstm
 - 主要貢獻：能夠預測股票基本的波動
 - 未來展望：加入更多特徵進行訓練，使用Transformer等更強大的時間序列模型
 
-## 參考資料
-
-- [yfinance · PyPI](https://pypi.org/project/yfinance/)
-- [運用 LSTM 進行多變數股價預測](https://medium.com/@hjeremy1222/%E9%81%8B%E7%94%A8lstm%E9%80%B2%E8%A1%8C%E5%A4%9A%E8%AE%8A%E6%95%B8%E8%82%A1%E5%83%B9%E9%A0%90%E6%B8%AC-6a4eb710b745)
-- [Predict stock prices using PyTorch Transformer (kaggle.com)](https://www.kaggle.com/code/hobbyai/predict-stock-prices-using-pytorch-transformer)
-- [NLP 9d LSTM vs. Transformers for Stock Prediction (kaggle.com)](https://www.kaggle.com/code/selcukcan/nlp-9d-lstm-vs-transformers-for-stock-prediction)
-- [Stock Market Analysis + Prediction using LSTM (kaggle.com)](https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm)
