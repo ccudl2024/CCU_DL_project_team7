@@ -49,9 +49,11 @@ lstm
   ![LSTM_loss](../image/lstm_loss.png)
   
 - 使用訓練集和驗證集進行預測，效果良好
+  
   ![LSTM1](../image/lstm1.png)
   
 - 使用測試集進行預測，雖然結果不完全吻合，但能抓住上升和下降的趨勢
+  
   ![LSTM2](../image/lstm2.png)
 
 ## 結論
