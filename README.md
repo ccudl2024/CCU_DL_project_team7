@@ -47,6 +47,8 @@
 ### 使用Apple的Close價格進行預測
 - 使用LSTM模型進行預測
 - 使用Transformer模型進行預測
+- ![Transformer](image/transformer.png)
+  
 
 ### 結果比較
 比較LSTM和Transformer模型的預測結果，使用RMSE（Root Mean Square Error）進行評估。
