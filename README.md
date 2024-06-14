@@ -40,14 +40,18 @@
 
 ### 0050預測結果（LSTM）
 顯示LSTM模型對0050股票的預測結果。
+![LSTM1](image/lstm1.png)
+![LSTM2](image/lstm2.png)
 
 ### MA 曲線
 繪製移動平均曲線來分析股價趨勢。
+![MA](image/ma.png)
 
 ### 使用Apple的Close價格進行預測
 - 使用LSTM模型進行預測
+  ![LSTM3](image/lstm3.png)
 - 使用Transformer模型進行預測
-- ![Transformer](image/transformer.png)
+  ![Transformer](image/transformer.png)
   
 
 ### 結果比較
