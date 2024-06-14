@@ -14,6 +14,7 @@
 
 
 ### 詳細介紹
+#### 詳細的介紹我們的專案
 - [mid](stock_mid/readme.md)
 - [final](stock_final/readme.md)
 
