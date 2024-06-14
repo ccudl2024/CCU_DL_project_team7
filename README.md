@@ -12,6 +12,11 @@
 - 612415139 馬皓煒
 - 613415085 黃亮鈞
 
+- stock_final/readme.md
+
+### 詳細介紹
+- [mid](stock_mid/readme.md)
+- [final](stock_final/readme.md)
 ## 專案資料
 
 ### 資料來源
