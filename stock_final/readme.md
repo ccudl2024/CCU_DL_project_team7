@@ -45,7 +45,7 @@ cd stock_final
 jupyter notebook
 ```
 
-3.打開 stock=-prediction.ipynb 文件，並依次執行每個代碼單元格。
+3.打開 stock-prediction.ipynb 文件，並依次執行每個代碼單元格。
 
 
 ## 專案結構
