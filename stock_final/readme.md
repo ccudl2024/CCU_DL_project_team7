@@ -29,3 +29,6 @@
 
 ```bash
 pip install pandas numpy matplotlib seaborn yfinance tensorflow scikit-learn
+
+
+#lstm-模型
