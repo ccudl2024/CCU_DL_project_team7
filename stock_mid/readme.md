@@ -45,6 +45,7 @@ lstm
 
 ## 測試結果
 - Loss
+   ![LSTM_loss](../image/lstm_loss.png)
 - 使用訓練集和驗證集進行預測，效果良好
   ![LSTM1](../image/lstm1.png)
   
