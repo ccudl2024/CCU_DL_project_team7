@@ -35,17 +35,17 @@ pip install pandas numpy matplotlib seaborn yfinance tensorflow scikit-learn
 1.克隆此儲存庫：
 
 ```bash
-git clone https://github.com/yourusername/stock-market-analysis-prediction.git
+git clone https://github.com/yuyu-Hsiao/CCU_DL_project.git
 ```
 
 2.進入專案目錄並運行Jupyter Notebook：
 
 ```bash
-cd stock-market-analysis-prediction
+cd stock_final
 jupyter notebook
 ```
 
-3.打開 stock-market-analysis-prediction-using-lstm.ipynb 文件，並依次執行每個代碼單元格。
+3.打開 stock=-prediction.ipynb 文件，並依次執行每個代碼單元格。
 
 
 ## 專案結構
