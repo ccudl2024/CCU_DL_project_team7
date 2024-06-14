@@ -16,6 +16,7 @@
   - [移動平均線](#移動平均線)
   - [LSTM 模型](#lstm-模型)
   - [Transformer 模型](#transformer-模型)
+  - [比較結果](#比較結果)
 - [貢獻](#貢獻)
 
 
@@ -82,6 +83,9 @@ model.compile(optimizer='adam', loss='mean_squared_error')
 # Train the model
 model.fit(x_train, y_train, batch_size=1, epochs=1)
 ```
+- 使用LSTM模型進行預測
+  ![LSTM3](../image/lstm3.png)
+
 
 ### transformer-模型
 
@@ -129,6 +133,16 @@ def build_model(
     outputs = layers.Dense(1, activation="linear")(x) #this is a pass-through
     return keras.Model(inputs, outputs)
 ```
+- 使用Transformer模型進行預測
+  ![Transformer](../image/transformer.png)
+
+### 比較結果
+使用RMSE（Root Mean Square Error）進行評估
+
+![image](https://github.com/yuyu-Hsiao/CCU_DL_project/assets/119058735/a98e6397-6f2f-4bf5-b5f3-9358b5ea87d4)
+
+- LSTM的RMSE：7.96
+- transformer的RMSE：3.74
 
 ## 貢獻
 比較LSTM和Transformer模型在股票走勢預測上的表現。
